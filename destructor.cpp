@@ -2,5 +2,6 @@
 using namespace std;
 
 class angka {
+private:
     
 };
